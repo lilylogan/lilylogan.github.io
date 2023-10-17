@@ -18,9 +18,9 @@ email: 'lily.logan1018@gmail.com'
 description: "I'm a junior undergraduate student at University of Oregon majoring in data science with minors in computer science and economics."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "lilylogan.github.io" # the base hostname & protocol for your site, e.g. https://example.com
-twitter_username: 'jamigibbs'
+# twitter_username: 'jamigibbs'
 github_username: 'lilylogan'
-medium_username: 'blog.jamigibbs.com'
+# medium_username: 'blog.jamigibbs.com'
 
 # Build settings
 markdown: kramdown
