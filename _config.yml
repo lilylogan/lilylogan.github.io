@@ -102,4 +102,4 @@ nav_item:
   - { url: '/', text: 'Home' }
   - { url: '/about', text: 'About' }
   - { url: '/projects', text: 'Projects' }
-  - { url: '_includes/contact-modal', text: 'Contact' }
+  - { url: '/contact', text: 'Contact' }
