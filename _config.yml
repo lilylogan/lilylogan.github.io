@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: "Hello! My name is Lily Logan"
+title: "Hello! My name is Lily"
 email: 'lily.logan1018@gmail.com'
 description: "I am actively seeking an internship position for Summer 2024 to immerse myself in and gain valuable experience in the tech industry. As a Data Science and Computer Science major with a minor in Economics, I am deeply fascinated by the evolution of AI coupled with machine learning and
 its potential applications for the broader public. My involvement in the Women in Computer Science club at UO has ignited a passion for fostering an
