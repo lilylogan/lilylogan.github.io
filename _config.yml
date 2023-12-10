@@ -21,7 +21,6 @@ inclusive tech environment, ensuring that all minority groups feel embraced. I a
 future career pursuit."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "lilylogan.github.io" # the base hostname & protocol for your site, e.g. https://example.com
-# twitter_username: 'jamigibbs'
 github_username: 'lilylogan'
 linkedin_username: 'lily-logan'
 
@@ -102,5 +101,5 @@ enable_nav: true
 nav_item:
   - { url: '/', text: 'Home' }
   - { url: '/about', text: 'About' }
-  - { url: '/', text: 'Projects' }
-  - { url: '/', text: 'Contact' }
+  - { url: '/projects', text: 'Projects' }
+  - { url: '/contect', text: 'Contact' }
