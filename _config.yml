@@ -15,7 +15,10 @@
 # in the templates via {{ site.myvariable }}.
 title: "Hello! My name is Lily Logan"
 email: 'lily.logan1018@gmail.com'
-description: "I'm a junior undergraduate student at University of Oregon majoring in data science with minors in computer science and economics."
+description: "As a Data Science and Computer Science major with a minor in Economics, I am deeply fascinated by the evolution of AI coupled with machine learning and
+its potential applications for the broader public. My involvement in the Women in Computer Science club at UO has ignited a passion for fostering an
+inclusive tech environment, ensuring that all minority groups feel embraced. I am dedicated to advancing this mission alongside my enthusiasm for AI in any
+future career pursuit."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "lilylogan.github.io" # the base hostname & protocol for your site, e.g. https://example.com
 # twitter_username: 'jamigibbs'
